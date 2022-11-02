@@ -1,5 +1,3 @@
-# contatos_java_aula_2
-
 ## Exercício 2 – API REST para Agenda de Contatos
 
 Criar uma API REST usando Spring Boot para uma agenda de contatos, onde os dados
